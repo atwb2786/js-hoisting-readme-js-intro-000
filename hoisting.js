@@ -5,12 +5,10 @@ function callMe() {
   console.log("and this is crazy..");
   console.log("but here's my number..");
   console.log("so call me");
-  return lyric;
+  console.log(lyric);
 }
 
 callMe();
-
-console.log(lyric);
 
 function crazy() {
   // fix the code in here:
